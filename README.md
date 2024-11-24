@@ -5,8 +5,9 @@
 This project is designed to classify individuals into predefined age bins using a Convolutional Neural Network (CNN). The pipeline includes data exploration, preprocessing, augmentation, model training, and evaluation. The dataset contains images with metadata encoding the age, gender, race, and timestamp of the individuals.
 
 ## Dataset
-The UTKFace Dataset is used in this project. It is a large-scale face dataset containing over 20,000 images of faces with metadata such as age, gender, and ethnicity. The dataset is diverse, spanning a wide range of ages, ethnicities, and facial variations. It is publicly available at UTKFace.
+### Dataset: UTKFace
 
+This project uses the **UTKFace Dataset**, containing over **20,000 facial images** with metadata for **age**, **gender**, and **ethnicity**, offering diverse variations for computer vision tasks. Access it here: [UTKFace Dataset](https://susanqq.github.io/UTKFace/).
 ## Project Structure
 
 ### 1. **Data Exploration**
