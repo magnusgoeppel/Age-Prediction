@@ -7,13 +7,6 @@ This project is designed to classify individuals into predefined age bins using 
 ## Dataset
 The UTKFace Dataset is used in this project. It is a large-scale face dataset containing over 20,000 images of faces with metadata such as age, gender, and ethnicity. The dataset is diverse, spanning a wide range of ages, ethnicities, and facial variations. It is publicly available at UTKFace.
 
-## Folder structure
-
-- **`data/`**: Contains raw, prepared, and augmented image datasets.
-- **`scripts/`**: Scripts for data exploration, augmentation, and model building.
-- **`model/`**: Saved trained models.
-- **`README.md`**: Documentation for the repository.
-
 ## Project Structure
 
 ### 1. **Data Exploration**
